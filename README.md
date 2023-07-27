@@ -19,13 +19,13 @@ This project is a fully functional YouTube clone built with React.js and Tailwin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-youtube-clone.git
+git clone https://github.com/Jyotiranjankunda/You-Tube-clone.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your-youtube-clone
+cd You-Tube-clone
 ```
 
 3. Install dependencies:
